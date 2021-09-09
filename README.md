@@ -7,7 +7,9 @@
 
 # Data Visualization & Analysis using Gapminder
 
-## > "The world cannot be understood without numbers. But the world cannot be understood with numbers alone.” - Hans Rosling, Factfulness: Ten Reasons We're Wrong About the World—and Why Things Are Better Than You Think "
+> "The world cannot be understood without numbers. But the world cannot be understood with numbers alone.” - Hans Rosling, Factfulness
+
+
 
 
 
