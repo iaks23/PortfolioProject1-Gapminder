@@ -11,12 +11,14 @@
 
 ## Table of Contents
 
-* [Objective ](#objective)
-* [Pre-Requisites](#pre-requisite)
-* [Gapminder](#gapminder)
-* [Discussion](#discussion)
+* [Objective 💡](#objective)
+* [Pre-Requisites ⚙️](#pre-requisite)
+* [Gapminder 🌍](#gapminder)
+* [Statistics That Bring Joy 🙆🏻‍♀️](#discussion)
 
+----
 
+# 💡 Obective 
 
 
 
