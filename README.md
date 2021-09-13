@@ -77,6 +77,15 @@ The main columns I will be working with are,
 
 # 🙆🏻‍♀️ Statistics That Bring Joy <a name="discussion"></a>
 
+### Plotting LifeExp against Year for a Specific Country
+
+![indiachart](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/lifeExpIndia.png)
+
+#### Joyful Fact #1
+
+On an average a person in 1950's India was living upto 37.3 years, but with significant advancements the life expectancy has moved all the way up to 65 years! Life expectancy all around the world today is around 70 years thanks to better access to healthcare, food, and even education. 
+
+>💡 tip: Check out stats for countries like Iran & Iraq! You'd be really surprised!
 
 
 
