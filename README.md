@@ -20,19 +20,35 @@
 
 # 💡 Obective <a name="objective"></a>
 
+Before we begin, let me ask you a question,
+
+### In the last 20 years, the proportion of the world population living in extreme poverty has…
+
+- [] Almost doubled
+- [] Remained more or less the same
+- [] Almost halved
+
+> hint: it's really never as bad as you think it is. 
+
+When we see think about the world, we think wars, pandemic, hunger, and extreme poverty. With this pre-conceived picture painted in our heads we think that the world today is in a really bad place and is only going to get worse. The correct answer for the above question is Option C, i.e. the majority of the world population today have moved out of extreme poverty and are living a decent life. 
+
+The late Hans Rosling, discovered that only 7% of the entire world population got that right. He asked a few more questions, and realized that almost everybody universally got most questions wrong. 
+
+In fact, on an average, a chimpanzee scores better than a nobel laureate! 
+
+! [chimpgif]()
 
 
 
+### Feel like you're up for a challenge? Take the [quiz](https://upgrader.gapminder.org) yourself!
 
+And so, in order to fight global ignorance and to make us stress-free about the world, Hans began [Gapminder](https://www.gapminder.org/about/about-gapminder/history/), and also published the book Factfulness, which contains accurate, factual data that tells us how to battle negative world views, ignorance, and misconceptions. They are some of the best [statistics](https://www.youtube.com/watch?v=hVimVzgtD6w) that you will ever see!
 
+Inspired by the book, I wanted to recreate these joyful graphs myself to see the progress humanity has made in the span of just 50 years. Reading the book was truly a humbling experience, and only increased my hunger for curiosity. I hope this mini project has the same effect for you. 
 
+! [sparkjoy]()
 
-
-
-
-
-
-# ⚙️ Pre-Requisites 
+# ⚙️ Pre-Requisites <a name="pre-requisite"></a>
 
 To run this program or to try it out for yourself, make sure to have Python 3 installed in your computer with an IDE of your choice. I have used the Jupyter Notebook which comes as a part of the Anaconda library. You can find more details about installation and setup [here](https://www.datacamp.com/community/tutorials/installing-anaconda-windows)
 
@@ -48,6 +64,7 @@ $ python get-pip.py
 
 > ‼️ Do leave me a message in case you face issues on installation!
 
+# 🌍 Gapminder <a name="gapminder"></a>
 
 
 
@@ -59,7 +76,7 @@ $ python get-pip.py
 
 ---------
 
-
+🌟 if you found this prject useful! 
 
 © Akshaya Parthasarathy, 2021 
 
