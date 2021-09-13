@@ -90,13 +90,13 @@ On an average a person in 1950's India was living upto 37.3 years, but with sign
 
 ### Plotting GdpPerCap against LifeExp for Individual Countries
 
-In his book, Factfulness, Hans stresses that we moove away from the terms "developing" v/s "developed" nations and proposes 4 LEVELS to classify the world, in order to overcome "The Gap Instinct" 
+In his book, Factfulness, Hans stresses that we move away from the terms "developing" v/s "developed" nations and proposes 4 LEVELS to classify the world, in order to overcome "The Gap Instinct" 
 
 Here's the GDP per capita and life expectancy for countries in the year 1972. 
 
 ![gdp1972](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/country1972.png)
 
-It is understandable that most low-income countries have low life expectancy. But have the poorer gotten poorer? 
+It is understandable that most low-income countries have low life expectancy. But have the poor gotten poorer? 
 
 ![gdp2007](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/country2007.png)
 
