@@ -18,7 +18,35 @@
 
 ----
 
-# 💡 Obective 
+# 💡 Obective <a name="objective"></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ⚙️ Pre-Requisites 
+
+To run this program or to try it out for yourself, make sure to have Python 3 installed in your computer with an IDE of your choice. I have used the Jupyter Notebook which comes as a part of the Anaconda library. You can find more details about installation and setup [here](https://www.datacamp.com/community/tutorials/installing-anaconda-windows)
+
+Mac OS users can follow [this](https://www.anaconda.com/products/individual-d) tutorial.
+
+You will also require <code>Pip</code> in order to install certain packages such as <code> Pandas </code, <code> Numpy </code> and <code> Plotly </code>
+
+Once you have Python installed, run this command to get Pip.
+
+```python
+$ python get-pip.py``` 
+
+‼️> Do leave me a message in case you face issues on installation!
+
 
 
 
