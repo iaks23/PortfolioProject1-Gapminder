@@ -38,14 +38,15 @@ To run this program or to try it out for yourself, make sure to have Python 3 in
 
 Mac OS users can follow [this](https://www.anaconda.com/products/individual-d) tutorial.
 
-You will also require <code>Pip</code> in order to install certain packages such as <code> Pandas </code, <code> Numpy </code> and <code> Plotly </code>
+You will also require <code>Pip</code> in order to install certain packages such as <code> Pandas </code>, <code> Numpy </code> and <code> Plotly </code>
 
 Once you have Python installed, run this command to get Pip.
 
 ```python
-$ python get-pip.py``` 
+$ python get-pip.py
+```
 
-‼️> Do leave me a message in case you face issues on installation!
+> ‼️ Do leave me a message in case you face issues on installation!
 
 
 
