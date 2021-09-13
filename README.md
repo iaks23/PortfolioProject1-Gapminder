@@ -66,6 +66,19 @@ $ python get-pip.py
 
 # 🌍 Gapminder <a name="gapminder"></a>
 
+The gapminder dataset I am working with is built-in and available on <code>Plotly</code>. It has a total of <code>1708</code> rows. 
+
+The timeline of the dataset is from 1952-2007. 
+
+The main columns I will be working with are, 
+
+- <code>Year</code>
+- <code>gdpPercap</code>
+- <code>lifeExp</code>
+- <code>Pop</code>
+
+# 🙆🏻‍♀️ Statistics That Bring Joy <a name="discussion"></a>
+
 
 
 
@@ -76,7 +89,7 @@ $ python get-pip.py
 
 ---------
 
-🌟 if you found this prject useful! 
+🌟 if you found this project useful! 
 
 © Akshaya Parthasarathy, 2021 
 
