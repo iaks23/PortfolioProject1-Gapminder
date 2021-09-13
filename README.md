@@ -36,7 +36,7 @@ The late Hans Rosling, discovered that only 7% of the entire world population go
 
 In fact, on an average, a chimpanzee scores better than a nobel laureate! 
 
-! [chimpgif](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/chimp.GIF)
+![chimpgif](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/chimp.GIF)
 
 ### Feel like you're up for a challenge? Take the [quiz](https://upgrader.gapminder.org) yourself!
 
@@ -44,7 +44,7 @@ And so, in order to fight global ignorance and to make us stress-free about the 
 
 Inspired by the book, I wanted to recreate these joyful graphs myself to see the progress humanity has made in the span of just 50 years. Reading the book was truly a humbling experience, and only increased my hunger for curiosity. I hope this mini project has the same effect for you. 
 
-! [sparkjoy](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/joy.GIF)
+![sparkjoy](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/joy.GIF)
 
 # ⚙️ Pre-Requisites <a name="pre-requisite"></a>
 
