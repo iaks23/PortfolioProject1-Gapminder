@@ -15,6 +15,7 @@
 * [Pre-Requisites ⚙️](#pre-requisite)
 * [Gapminder 🌍](#gapminder)
 * [Statistics That Bring Joy 🙆🏻‍♀️](#discussion)
+* [Conclusion 🧐](#end)
 
 ----
 
@@ -87,12 +88,38 @@ On an average a person in 1950's India was living upto 37.3 years, but with sign
 
 >💡 tip: Check out stats for countries like Iran & Iraq! You'd be really surprised!
 
+### Plotting GdpPerCap against LifeExp for Individual Countries
+
+In his book, Factfulness, Hans stresses that we moove away from the terms "developing" v/s "developed" nations and proposes 4 LEVELS to classify the world, in order to overcome "The Gap Instinct" 
+
+Here's the GDP per capita and life expectancy for countries in the year 1972. 
+
+![gdp1972](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/country1972.png)
+
+It is understandable that most low-income countries have low life expectancy. But have the poorer gotten poorer? 
+
+![gdp2007](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/country2007.png)
+
+#### Joyful Fact #2
+
+Within 30 years, most countries have pushed themselves from extreme poverty to middle-class standards. Ofcourse, in 2021 this number is even greater! There is no "gap" anymore since a majority of the countries fall in the middle. Nearly 85% percent of the world has moved to "developed" (i.e. Level 2 & 3), yet the worldview has not changed. 
+
+### The Infamous Bubble Plot
+
+How cool has humankind been these past few years? What have we not tackled and how much have we leaped! 
+
+![animatedcountry](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/country.gif)
+
+The journey of our world, in 10 seconds or less. 
+
+![animatedworld](https://github.com/iaks23/PortfolioProject1-Gapminder/blob/main/img/world.gif)
+
+> :bulb: tip: Check out how the world has evolved in terms of GdpPerCap!
 
 
+# 🧐 Conclusion <a name="end"></a>
 
-
-
-
+There is no denying that things are bad, but the world is getting better. Use free data sources around you to stay updated, aware, and factful. 
 
 ---------
 
